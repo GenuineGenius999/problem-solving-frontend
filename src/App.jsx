@@ -74,7 +74,7 @@ function App() {
 
     try {
       // const res = await fetch("http://localhost:8080/api/solve", {
-      const res = await fetch("https://5364a8b92211.ngrok-free.app/api/solve", {
+      const res = await fetch("https://e398c53b5981.ngrok-free.app/api/solve", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
